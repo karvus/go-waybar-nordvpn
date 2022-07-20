@@ -1,8 +1,8 @@
 # go-waybar-nordvpn
 
 Simple wrapper around the Linux CLI for [NordVPN](https://nordvpn.com/
-"NordVPN"), suitable for use in a <https://github.com/Alexays/Waybar> custom
-module.
+"NordVPN"), suitable for use in a [Waybar](https://github.com/Alexays/Waybar
+"Waybar") custom module.
 
 For example, in `~/.config/waybar/config`
 
